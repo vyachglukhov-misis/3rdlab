@@ -1,0 +1,15 @@
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\bin\Debug\net6.0\lastLab.exe
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\bin\Debug\net6.0\lastLab.deps.json
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\bin\Debug\net6.0\lastLab.runtimeconfig.json
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\bin\Debug\net6.0\lastLab.dll
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\bin\Debug\net6.0\lastLab.pdb
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\obj\Debug\net6.0\lastLab.csproj.AssemblyReference.cache
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\obj\Debug\net6.0\lastLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\obj\Debug\net6.0\lastLab.AssemblyInfoInputs.cache
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\obj\Debug\net6.0\lastLab.AssemblyInfo.cs
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\obj\Debug\net6.0\lastLab.csproj.CoreCompileInputs.cache
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\obj\Debug\net6.0\lastLab.dll
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\obj\Debug\net6.0\refint\lastLab.dll
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\obj\Debug\net6.0\lastLab.pdb
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\obj\Debug\net6.0\lastLab.genruntimeconfig.cache
+C:\Users\рофланбулдыга\Desktop\lastLab\lastLab\obj\Debug\net6.0\ref\lastLab.dll
